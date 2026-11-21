@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dynamic Island Pro</string>
+    <string name="notification_listener_label">Dynamic Island Pro Listener</string>
+    <string name="channel_overlay_name">Dynamic Island Overlay</string>
+    <string name="channel_overlay_desc">Keeps the floating Dynamic Island HUD active over other apps</string>
+    <string name="channel_alerts_name">System &amp; Battery Alerts</string>
+    <string name="channel_alerts_desc">Battery full/low and network status change alerts</string>
+    <string name="overlay_notif_title">Dynamic Island Pro Active</string>
+    <string name="overlay_notif_body">Floating capsule is monitoring live media, battery, and notifications</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_modules">Modules</string>
+    <string name="nav_setup">Setup</string>
+    <string name="cd_island_pill">Dynamic Island floating pill</string>
+    <string name="cd_play_pause">Play or pause media</string>
+    <string name="cd_next_track">Next track</string>
+    <string name="cd_prev_track">Previous track</string>
+    <string name="cd_dismiss_notif">Dismiss notification</string>
+    <string name="cd_open_app">Open notification app</string>
+</resources>

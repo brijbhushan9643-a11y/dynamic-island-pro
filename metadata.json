@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Island Pro",
+  "description": "Native Android Dynamic Island floating pill overlay with live media controls, battery & charging status, notifications, call HUD, network speed monitor, volume/brightness controls, and customization studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
